@@ -13,7 +13,7 @@ export default function Cards() {
         alt=''
         className='mb:h-full mb:object-cover'
       />
-      <div className='m-6 flex flex-col'>
+      <div className='m-6 flex flex-col mb:justify-between'>
         <p className='tracking-[0.5em] text-[12px] mb-3'>PERFUME</p>
         <h1 className='text-4xl font-bold font-fraunces mb-4'>
           Gabrielle Essence Eau De Parfum
